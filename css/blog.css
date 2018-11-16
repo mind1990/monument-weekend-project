@@ -36,7 +36,7 @@ h1 a {
 /* ----------------------------------------
 Layout
 ------------------------------------------- */
-.container section {
+.grid-wrapper section {
 	width: 70%;
 	text-align: left;
 	padding-top: 0;
@@ -94,7 +94,7 @@ article h3 {
 	aside {
 		display: none;
 	}
-	.container section {
+	.grid-wrapper section {
 		width: 100%;
 	}
 }
